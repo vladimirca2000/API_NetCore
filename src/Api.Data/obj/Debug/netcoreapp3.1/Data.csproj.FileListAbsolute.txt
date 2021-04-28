@@ -1,0 +1,9 @@
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb

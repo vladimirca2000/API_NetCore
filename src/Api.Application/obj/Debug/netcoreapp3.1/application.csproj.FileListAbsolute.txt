@@ -17,4 +17,4 @@ C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Ap
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
-C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
