@@ -5087,8 +5087,8 @@
     },
     "Domain/1.0.0": {
       "type": "project",
-      "path": "../Api.Domain/Domain.csproj",
-      "msbuildProject": "../Api.Domain/Domain.csproj"
+      "path": "../api.domain/Domain.csproj",
+      "msbuildProject": "../api.domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5136,8 +5136,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
             }
           }
         }
