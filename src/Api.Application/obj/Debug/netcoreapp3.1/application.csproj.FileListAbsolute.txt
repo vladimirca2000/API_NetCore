@@ -70,3 +70,10 @@ C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\api.ap
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\api.application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\api.application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\api.application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
