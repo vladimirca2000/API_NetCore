@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ox2col/6+7kRleJhbU1COjLe+VNtQewCObYPzn+RYdppv5JTKsVZPeZ/plLUeO8Uk1Ch3PZQEMhNHz6fIrXhig==",
+  "dgSpecHash": "zOqgM4EmS7/lLbICXbvCcR8YOTibNtHdnjtnSxb/+OPfzm1DbLXtioeKMbGJ8b0A7j6/Bqvb3DRGWqo18U0XjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

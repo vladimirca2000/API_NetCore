@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjvhADB84xEO6vImcAXYfvE+E82UhMHLjM8OpGfeU9zxON7FvQEYjX8ICjDarlmPk1KxeHO+7WgNgf5FdqhTRA==",
+  "dgSpecHash": "F4A0iQFiHMYxhUKOmmD5h941KP+wwkZV9aUNMPPSqCtqNfbhmT9AX8BOyQYKKjpy1PVeueg26vgBVgGZDL9drw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladi\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\vladi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

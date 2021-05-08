@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,15 +33,16 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj"
+              "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
+              "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
               },
-              "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj": {
-                "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj"
+              "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj"
               }
             }
           }
@@ -54,7 +55,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -75,18 +81,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj": {
+    "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -108,9 +114,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
+              "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
               }
             }
           }
@@ -123,6 +130,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
@@ -160,18 +168,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
+    "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -193,6 +201,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -204,6 +213,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -225,18 +235,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj": {
+    "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.service\\Service.csproj",
         "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.service\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -258,12 +268,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj"
+              "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\vladi\\OneDrive\\Local_Meu_Computador\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
+              "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj"
               }
             }
           }
@@ -276,7 +287,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[5.5.0, )"
@@ -297,7 +313,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
