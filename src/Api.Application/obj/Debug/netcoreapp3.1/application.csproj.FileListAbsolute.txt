@@ -79,6 +79,7 @@ C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Ap
 C:\Users\vladi\OneDrive\Local_Meu_Computador\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
@@ -155,4 +156,3 @@ C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcor
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
-C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css

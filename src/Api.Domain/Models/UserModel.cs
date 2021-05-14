@@ -4,6 +4,8 @@ namespace Api.Domain.Models
 {
     public class UserModel
     {
+             
+
         private Guid _id;
         public Guid Id
         {
