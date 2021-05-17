@@ -15,3 +15,4 @@ C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\api.domain\obj\Debug\netcoreapp3
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\api.domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\api.domain\obj\Debug\netcoreapp3.1\Domain.dll
 C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\api.domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Desenvolvimento\Cursos\Curso_Api_NetCore\src\api.domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache

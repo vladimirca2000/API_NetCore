@@ -291,11 +291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "c:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
+      "projectPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "c:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\obj\\",
+      "outputPath": "C:\\Desenvolvimento\\Cursos\\Curso_Api_NetCore\\src\\api.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -317,6 +317,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -328,6 +329,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
@@ -349,7 +351,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
