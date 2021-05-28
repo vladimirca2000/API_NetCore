@@ -7,18 +7,19 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Api.Data.Implementations
 {
-    public class CepImplementation: BaseRepository<CepEntity>, ICepRepository
+    public class CepImplementation : BaseRepository<CepEntity>, ICepRepository
     {
         private DbSet<CepEntity> _dataset;
 
-        public CepImplementation(MyContext context): base(context)
+        public CepImplementation(MyContext context) : base(context)
         {
             _dataset = context.Set<CepEntity>();
         }
 
-        public async Task<CepEntity> Get(string cep)
+        public async Task<CepEntity> SelectAsync(string cep)
         {
             return await _dataset.Include(c => c.Municipio).ThenInclude(m => m.Uf).SingleOrDefaultAsync(c => c.Cep.Equals(cep));
         }
+
     }
 }
